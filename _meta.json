@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "CalypsosContribution",
+        "abbreviation": "CC",
+        "full": "Calypso's Contribution",
+        "version": "0.0.1",
+        "authors": [
+          "Calypso Elliott"
+        ],
+        "color": "39068c",
+        "colorNight": "720acc"
+      }
+    ]
+  }
+}
